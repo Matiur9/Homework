@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author matiurrahman
- *
- */
-module HomeWorkCoreJava {
-}
