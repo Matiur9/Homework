@@ -5,8 +5,8 @@ public class AboutMe {
 	String myName = "Matiur Rahman Khan"; // intialized
 
 	byte age = 27;
-	short myCarInsurance = 24678;
-	int myMonthlySalary = 87547252;
+	short myCarInsurance = 32678;
+	int myMonthlySalary = 1166256318;
 	long myAccountBalance = 84747583934l;
 	float myHeight = 1.7465f;
 	double myCgpa = 3.7664794;
